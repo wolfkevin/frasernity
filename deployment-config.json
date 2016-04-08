@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "159.203.162.156",
+    "username": "root",
+    "password": "therebbe",
+    "port": 22,
+    "remotePath": "/var/www/frasernity.com",
+    "uploadOnSave": true
+}
